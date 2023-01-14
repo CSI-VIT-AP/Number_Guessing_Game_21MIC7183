@@ -12,7 +12,15 @@ Instructions to play game :
 ---> If the entered number is exactly equal to the computer value, the output will be "Congratulations! You won the game."   
 ---> If the entered value is present in the next 5 values of computer value, the output will be "High! Try again with a nearby value."   
 ---> If the entered value is more than the next 5 values of computer value, the output will be "Too High! Try again."   
+---> You can play the game as many times as you can.
 
-Try playing the game now.
+Try playing the game now. 
 
-Link to play the game : https://hemavenkat8642.github.io/Guess_The_Number_Game/
+Link to play the game : https://hemavenkat8642.github.io/Number_Guessing_Game/
+
+
+
+Hint : You can find the randomly generated number in the console.
+       To open console, right click on the webpage and click on "Inspect".   
+       And then, click on the "Console" tab.   
+       Before or after playing the game, you can know the correct number to win the game.
