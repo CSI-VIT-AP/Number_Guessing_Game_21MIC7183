@@ -18,9 +18,9 @@ Try playing the game now.
 
 Link to play the game : https://hemavenkat8642.github.io/Number_Guessing_Game/
 
-
-
-Hint : You can find the randomly generated number in the console.
+   
+   
+Hint : You can find the randomly generated number in the console.   
        To open console, right click on the webpage and click on "Inspect".   
-       And then, click on the "Console" tab.   
+       And then, click or open the "Console" tab.   
        Before or after playing the game, you can know the correct number to win the game.
